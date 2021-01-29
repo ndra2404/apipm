@@ -1,0 +1,48 @@
+{
+	"auth": {
+		"token_invalid": "Your token is invalid or expired",
+		"token_not_provided": "Token not provided",
+		"error_blocked": "You're temporarily blocked from using this application",
+		"error_login_failed": "Password are not valid",
+		"success_change_pass": "Successfully change password"
+	},
+	"leave": {
+		"success_create": "",
+		"success_update": "",
+		"success_revise": "",
+		"success_approve": "",
+		"success_cancel": "",
+		"failed_create": "",
+		"failed_update": "",
+		"failed_approve": "",
+		"failed_approve_privilege": "You don't have privilege to approve this request",
+		"failed_update_already_approved": "Failed to update data because the request already approved",
+		"error_date_already_requested": "You have entered a date that already requested",
+		"error_company_required": "Company code is required",
+		"error_not_found": "Leave data not found"
+	},
+	"medical": {
+		"success_create": "Successfully create medical request",
+		"failed_create": "Failed to create medical request"
+	},
+	"general": {
+		"failed_get": "Failed to get data",
+		"error_not_found": "Data not found",
+		"failed_approve_privilege": "general.failed_approve_privilege"
+	},
+	"attachment": {
+		"success_create": "Successfully create attachment",
+		"success_update": "Successfully update attachment",
+		"error_notfound": "Attachment not found"
+	},
+	"notification": {
+		"leave_change": "",
+		"leave_approval": "",
+		"leave_approved": "",
+		"token_success_create": "Successfully add token"
+	},
+	"assessment": {
+		"error_master_param_required": "Master parameter is required",
+		"error_user_id_required": "User parameter is required"
+	}
+}

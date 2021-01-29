@@ -1,0 +1,47 @@
+{
+  "auth": {
+    "token_invalid": "Token anda tidak valid atau sudah habis",
+    "token_not_provided": "Token tidak disertakan",
+    "error_blocked": "Akses anda pada aplikasi ini diblokir untuk sementara waktu",
+    "error_login_failed": "Password Tidak sesuai",
+    "success_change_pass": "Berhasil mengganti sandi"
+  },
+  "leave": {
+    "success_create": "",
+    "success_update": "",
+    "success_revise": "",
+    "success_approve": "",
+    "success_cancel": "",
+    "failed_create": "",
+    "failed_update": "",
+    "failed_approve": "",
+    "failed_approve_privilege": "Anda tidak mempunyai hak akses untuk menyetujui permintaan cuti ini",
+    "failed_update_already_approved": "Update data gagal dikarenakan permintaan cuti telah disetujui",
+    "error_date_already_requested": "Tanggal yang diajukan sudah pernah diajukan sebelumnya",
+    "error_company_required": "Kode perusahaan harus diisi",
+    "error_not_found": "Data permintaan cuti tidak ditemukan"
+  },
+  "medical": {
+    "success_create": "Berhasil membuat permintaan medis",
+    "failed_create": "Gagal membuat permintaan medis"
+  },
+  "general": {
+    "failed_get": "Gagal mendapatkan data",
+    "error_not_found": "Data tidak ditemukan"
+  },
+  "attachment": {
+    "success_create": "Berhasil membuat lampiran",
+    "success_update": "Berhasil mengedit lampiran",
+    "error_notfound": "Lampiran tidak ditemukan"
+  },
+  "notification": {
+    "leave_change": "",
+    "leave_approval": "",
+    "leave_approved": "",
+    "token_success_create": "Berhasil menambahkan token"
+  },
+	"assessment": {
+		"error_master_param_required": "Parameter master harus diisi",
+		"error_user_id_required": "Parameter user harus diisi"
+	}
+}
